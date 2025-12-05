@@ -7,7 +7,7 @@ Página web estilo picnic sobre las propiedades y curiosidades de la fresa.
 🔗 Ver el sitio web
 
 Puedes visitar la página web funcionando en el siguiente enlace:
-
+https://cmertilus15-oss.github.io/mi-web-fresas/
 
 
 ✨ Características del Diseño
