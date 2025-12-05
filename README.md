@@ -4,6 +4,12 @@ Página web estilo picnic sobre las propiedades y curiosidades de la fresa.
 
 ¡Bienvenido! Este es un sitio web "One-Page" dedicado a la Fresa, diseñado con una estética fresca de día de campo, utilizando texturas de papel y patrones clásicos.
 
+🔗 Ver el sitio web
+
+Puedes visitar la página web funcionando en el siguiente enlace:
+
+
+
 ✨ Características del Diseño
 
 Estética Picnic: Fondo con patrón Vichy (cuadros) generado puramente con CSS.
@@ -33,6 +39,8 @@ FontAwesome: Iconos vectoriales.
 /
 ├── index.html      # El código principal de la página
 ├── README.md       # Este archivo de documentación
+└── (Imágenes)      # Si decidiste subir tus propias fotos
+
 
 🚀 Cómo ejecutar localmente
 
